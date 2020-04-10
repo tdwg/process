@@ -13,3 +13,7 @@ Supplementary documents include:
  - template for annual reports from interest and task groups.
  
 Documents relavant to the history of TDWG's process(es) may also be deposited here and linked from the wiki.
+
+## See also
+
+For information about TDWG process please see the [process page on the TDWG web site](https://www.tdwg.org/about/process/).
