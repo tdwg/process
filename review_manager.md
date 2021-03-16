@@ -62,13 +62,17 @@ The **Independent Reviewers**
 
 # 2 TDWG Standards Track
 
-*Replace obsolete text here about OJS with some mechanism having the following features: archive of record of review, potential for confidentiality when necessary/desirable, ability to be turned over to any replacement manager.*
+| [See issue #5](https://github.com/tdwg/process/issues/5) |
+| :--- |
+| *Replace obsolete text here about OJS with some mechanism having the following features: archive of record of review, potential for confidentiality when necessary/desirable, ability to be turned over to any replacement manager.* |
 
 The Review Manager must ensure that:-
 
 A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). The file/s used in the review process should-
 
-*Replace obsolete text here about formats with something about Google Docs or Word docs with track changes capabilities. There really does not need to be a connection between the format used by the independent reviewers and the ultimate format for display (which currently will be Markdown, but could be something else in the future).*
+| [See issue #9](https://github.com/tdwg/process/issues/9) |
+| :--- |
+| *Replace obsolete text here about formats with something about Google Docs or Word docs with track changes capabilities. There really does not need to be a connection between the format used by the independent reviewers and the ultimate format for display (which currently will be Markdown, but could be something else in the future).* |
 
 B\. That the Author has placed the submission in the correct standards category
 - Technical Specification,
@@ -207,7 +211,7 @@ Dear {reviewerName}:
 
 I've been appointed as the review manager for the proposed TDWG {standardName} standard.
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) |
+| [See issue #5](https://github.com/tdwg/process/issues/5) |
 | :--- |
 | *We need to edit this template with the final language regarding anonymity options for the expert reviewers.* |
 
