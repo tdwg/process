@@ -51,7 +51,7 @@ The **Review Manager**
 
 The **Independent Reviewers**
 
-1. Should be anonymous to all but the Review Manager during the review process
+1. Should be anonymous to all but the Review Manager during the review process *Need to edit this if we want to have the option of non-anonymous expert review.*
 2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard
 3. Provide an independent perspective on the proposed standard
 4. Report to the Review Manager in a timely manner
