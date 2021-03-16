@@ -51,10 +51,11 @@ The **Review Manager**
 
 The **Independent Reviewers**
 
-1. Should be anonymous to all but the Review Manager during the review process *Need to edit this if we want to have the option of non-anonymous expert review.*
-2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard
-3. Provide an unbiased assessment on the proposed standard
-4. Report to the Review Manager in a timely manner
+*Need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* [See issue #3](https://github.com/tdwg/process/issues/3)
+1. Should be anonymous to all but the Review Manager during the review process.
+2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
+3. Provide an unbiased assessment on the proposed standard.
+4. Report to the Review Manager in a timely manner.
 
 # 2 TDWG Standards Track
 
