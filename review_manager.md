@@ -141,7 +141,7 @@ To advance the submission to public review, an acceptable set of documents must 
 | *Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.* |
 | *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
 
-A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the the tdwg and taxacom mail lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
+A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom mail lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
 
 Public comment may result in all of the following -
 
