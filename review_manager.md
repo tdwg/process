@@ -90,7 +90,9 @@ While it is appropriate to seek reviewers from different communities/disciplines
 
 It would be hoped that at least two of the reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
 
-*Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.*
+| [See issue #5](https://github.com/tdwg/process/issues/5) |
+| :--- |
+| *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
 
 An example of an email request to potential reviewers can be found as Appendix 2: Please use something like this as the email content.
 
@@ -118,7 +120,11 @@ Once all reviews are in, it is up to you to look at the reviews and decide into 
 - Resubmit for a new review (rare) or
 - Decline submission (even rarer)
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. *(Consider recommendations here for options for tracking comments.)* **If reviewers have used Word's Track Changes, then the documents are not anonymous. You may need to export these reviews into a format that maintains reviewer anonymity to the Author. You can for example, use Save As in Word and use the Security button to remove personal information.** You may wish to combine all salient parts of reviews into a single document for the Author.
+| [See issue #4](https://github.com/tdwg/process/issues/4) |
+| :--- |
+| *(Consider recommendations here for options for tracking comments.)* |
+
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. **~~If reviewers have used Word's Track Changes, then the documents are not anonymous.~~ You may need to export these reviews into a format that maintains reviewer anonymity to the Author. ~~You can for example, use Save As in Word and use the Security button to remove personal information.~~** You may wish to combine all salient parts of reviews into a single document for the Author.
 
 Subsequent reviews (by the engaged Reviewers) is usual.
 
@@ -130,9 +136,10 @@ The public review is complementary to the individual reviews. **Public comment m
 
 To advance the submission to public review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
 
-*Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.*
-
-*Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.*
+| [See issue #4](https://github.com/tdwg/process/issues/4) |
+| :--- |
+| *Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.* |
+| *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
 
 A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the the tdwg and taxacom mail lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
 
