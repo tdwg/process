@@ -40,12 +40,12 @@ The Executive Committee may also make recommendations for Reviewers but the fina
 
 The **Review Manager**
 
-1. Manages the process of review
-2. Understands the process required for an effective review (Section 5.1)
+1. Manages the process of review.
+2. Understands the process required for an effective review (Section 5.1).
 3. Does not need to be a technical developer but does need to have a good overview of the proposed standard. A prospective user of the standard should make for an effective Review Manager.
-4. Recruits Independent Reviewers from the TDWG or related communities
+4. Recruits Independent Reviewers from the TDWG or related communities.
 5. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
-6. Expedites the review process within the time requirements of the constitution
+6. Expedites the review process within the time requirements of the constitution.
 
 ## 1.3 Independent Reviewers
 
