@@ -141,7 +141,7 @@ To advance the submission to public review, an acceptable set of documents must 
 | *Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.* |
 | *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
 
-A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom mail lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
+A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom email lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
 
 Public comment may result in all of the following -
 
@@ -152,21 +152,23 @@ Public comment may result in all of the following -
 
 Note: If possible, constructive comments should be acknowledged by the Review Manager.
 
-*We need to review the following section in light of our discussions about confidential vs. public commenting.*
+| [See issue #4](https://github.com/tdwg/process/issues/4) |
+| :--- |
+| *We need to review the following section in light of our discussions about confidential vs. public commenting.* |
 
-Public Review comments are openly visible to all. The Author can be examining comments, discussing issues with the Review Manager, and preparing responses or changes once the first comment is posted.
+Public Review comments are openly visible to all. Comments are normaly posted by and identified to the commenter. Anonymous comments can when justified be communicated to and posted by the Review Manager on behalf of the commenter. The Author can examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
 An issue tracking system can be used in the public review. The basic requirement is that
 
-- The public can view and _easily_ comment on the proposal
-- That all comments can be identified to an individual with at least an email address
-- That a log of all comments can be uploaded to *(somewhere in Github)* so that the process is fully logged for future reference.
+- The public can view and _easily_ comment on the proposal.
+- That all comments can be identified to an individual with at least an email address (which is at least known to the Review Manager).
+- That a log of all comments is maintained ~~can be uploaded to *(somewhere in Github)*~~ so that the process is fully logged for future reference.
 
 When the review period is up, the Review Manager needs to inform [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and create a document that **adds a recommended action against each** comment that could include (with any further explanation as necessary):
 
 - Accept comment and implement the suggestion,
 - Accept comment but adds no significant addition to the proposal, or
-- Reject comment
+- Reject comment.
 
 It is then up to the Author to respond to the Review Manager concerning all comments and associated recommendations. The Review Manager examines the Author's responses and any updated submission. One of two actions are then selected for the submission:-
 
