@@ -51,7 +51,10 @@ The **Review Manager**
 
 The **Independent Reviewers**
 
-*Need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* [See issue #3](https://github.com/tdwg/process/issues/3)
+| [See issue #3](https://github.com/tdwg/process/issues/3) |
+| :--- |
+| *Need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* |
+
 1. Should be anonymous to all but the Review Manager during the review process.
 2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
 3. Provide an unbiased assessment on the proposed standard.
@@ -195,7 +198,9 @@ Dear {reviewerName}:
 
 I've been appointed as the review manager for the proposed TDWG {standardName} standard.
 
-*We need to edit this template with the final language regarding anonymity options for the expert reviewers.* [See issue #3](https://github.com/tdwg/process/issues/3)
+| [See issue #3](https://github.com/tdwg/process/issues/3) |
+| :--- |
+| *We need to edit this template with the final language regarding anonymity options for the expert reviewers.* |
 
 I am seeking independent reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
 
@@ -207,7 +212,9 @@ Please reply to me by {$weekLaterDate} to indicate whether you will undertake th
 
 The review itself is due {$reviewDueDate}.
 
-*Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.* [See issue #3](https://github.com/tdwg/process/issues/3)
+| [See issue #3](https://github.com/tdwg/process/issues/3) |
+| :--- |
+| *Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.* |
 
 {reviewManagerSignature}
 
