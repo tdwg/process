@@ -196,7 +196,7 @@ I've been appointed as the review manager for the proposed TDWG {standardName} s
 
 *We need to edit this template with the final language regarding anonymity options for the expert reviewers.*
 
-I am seeking reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
+I am seeking independent reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
 
 Please feel free to contact me with any questions via email and we can arrange a voice or video call if desired. I am currently on time zone UTC +/-xxxx.
 
