@@ -194,7 +194,7 @@ Dear {reviewerName}:
 
 I've been appointed as the review manager for the proposed TDWG {standardName} standard.
 
-*We need to edit this template with the final language regarding anonymity options for the expert reviewers.*
+*We need to edit this template with the final language regarding anonymity options for the expert reviewers.* [See issue #3](https://github.com/tdwg/process/issues/3)
 
 I am seeking independent reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
 
@@ -206,7 +206,7 @@ Please reply to me by {$weekLaterDate} to indicate whether you will undertake th
 
 The review itself is due {$reviewDueDate}.
 
-*Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.*
+*Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.* [See issue #3](https://github.com/tdwg/process/issues/3)
 
 {reviewManagerSignature}
 
@@ -215,6 +215,10 @@ The review itself is due {$reviewDueDate}.
 Abstract
 
 {standardAbstract}
+
+Submission materials for review will be made available pending your acceptance to undertake this task. Notice that the anonymous expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
+
+Please disclose if you have a conflict of interest with the content of the manuscript or the authors.
 
 ## 5.3 Example of Public Review Announcement
 
