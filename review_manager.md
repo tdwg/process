@@ -98,7 +98,7 @@ It would be hoped that at least two of the reviews would provide a comprehensive
 | :--- |
 | *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
 
-An example of an email request to potential reviewers can be found as Appendix in section 5.2: Please use something like this as the email content.
+An example of an email request to potential reviewers can be found ~~as Appendix~~ in section 5.2: Please use something like this as the email content.
 
 The timeframe for individual reviewers to respond is up to you as Review manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the review within a reasonable timeframe, another Reviewer may need to be engaged. You may want to have a reviewer or two 'up your sleeve' in case of missed deadlines. Once a deadline has been passed, send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
 
