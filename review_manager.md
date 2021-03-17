@@ -77,14 +77,14 @@ A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg
 B\. That the Author has placed the submission in the correct standards category
 - Technical Specification,
 - Applicability Statement or
-- Best Current Practice
+- Best Current Practice.
 
 C\. That the metadata information under the Summary is accurate and complete. The metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
 
 
 # 3 Independent Reviews
 
-One of the first tasks for the Review Manager is to seek reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three reviews are provided for submissions.
+One of the first tasks for the Review Manager is to seek Reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three expert Reviews are provided for submissions.
 
 ## 3.1 Reviewer Profile
 
@@ -92,19 +92,19 @@ The **ideal Reviewer** is someone who has not been directly involved in the deve
 
 While it is appropriate to seek Reviewers from different communities/disciplines, this is less important than their technical abilities. Ideally, good Reviewers will have experience in a range of areas/applications.
 
-It would be hoped that at least two of the reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
+It would be hoped that at least two of the Reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
 
 | [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
 
-An example of an email request to potential Reviewers can be found in section 5.2: Please use something like this as the email content.
+An example of an email request to potential expert Reviewers can be found in section 5.2: Please use something like this as the email content.
 
-The timeframe for individual Reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the review within a reasonable timeframe, another Reviewer may need to be engaged. You may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines. Once a deadline has been passed, send a reminder and in parallel, consider seeking an additional Reviewer. This way, there are minimal holdups.
+The timeframe for individual Reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the Review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. You may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines. Once a deadline has been passed, send a reminder and in parallel, consider seeking an additional Reviewer. This way, there are minimal holdups.
 
 ## 3.2 Review Criteria
 
-What **criteria** should you convey to Reviewers to judge a submission? A TDWG standard is a document, but consideration should be given in the review of how effectively the proposed standard could be implemented.
+What **criteria** should you convey to Reviewers to judge a submission? A TDWG standard is a document, but consideration should be given in the Review of how effectively the proposed standard could be implemented.
 
 - The key issue for Reviewers is that the proposed TDWG standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
 - Is the submission clearly written? If not, then uptake of the standard, however technically capable it is, will be diminished. Is the document itself structured in a way that will facilitate understanding by the broadest audience? Each standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See Section 3.2.1 of the Standards Documentation Specification for details.
@@ -128,11 +128,11 @@ Once all expert Reviews are in, it is up to the Review Manager to look at the Re
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. **~~If reviewers have used Word's Track Changes, then the documents are not anonymous.~~ You may need to export these reviews into a format that maintains reviewer anonymity to the Author. ~~You can for example, use Save As in Word and use the Security button to remove personal information.~~** You may wish to combine all salient parts of reviews into a single document for the Author.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. **~~If reviewers have used Word's Track Changes, then the documents are not anonymous.~~ The Review Manager may need to export these Reviews into a format that maintains Reviewer anonymity to the Author. ~~You can for example, use Save As in Word and use the Security button to remove personal information.~~** You may wish to combine all salient parts of Reviews into a single document for the Author.
 
 Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
 
-As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should request a decision concerning progress to Public Review. The Executive will discuss the submission and provide a decision within 30 days.
+As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
 
 # 4 Public Review
 
@@ -147,15 +147,16 @@ To advance the submission to Public Review, an acceptable set of documents must 
 | [See issue #6](https://github.com/tdwg/process/issues/6) mechanisms to alert the community |
 | :--- |
 | *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
+| *Description of how to coordinate communication about the public review announcemnent with the TDWG Outreach and Communications subcommittee should be added.* |
 
 A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom email lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
 
 Public comment may result in all of the following -
 
-- Positive suggestions that will improve and enhance the utility of the standard
-- Suggestions that will add unnecessary complexity or diversions
-- Recommendations that will advocate significant/fundamental changes to the submission
-- Negative comment that shows bias or lack of understanding of the intent of the proposed standard
+- Positive suggestions that will improve and enhance the utility of the standard.
+- Suggestions that will add unnecessary complexity or diversions.
+- Recommendations that will advocate significant/fundamental changes to the submission.
+- Negative comment that shows bias or lack of understanding of the intent of the proposed standard.
 
 Note: If possible, constructive comments should be acknowledged by the Review Manager.
 
@@ -206,7 +207,7 @@ A number of iterations may be required before a recommendation to accept the pro
 
 [The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws.]
 
-## 5.2 Example of an email to potential reviewers
+## 5.2 Example of an email to potential expert Reviewers
 
 Note: This template is similar to emails that have been used in the past to request reviews. Please modify as required. The fields within braces in the text below are variables into which you may insert known details.
 
@@ -244,7 +245,7 @@ Submission materials for review will be made available pending your acceptance t
 
 Please disclose if you have a conflict of interest with the content of the manuscript or the authors.
 
-## 5.3 Example of Public Review Announcement
+## 5.3 Example of Public Review announcement
 
 | [See issue #7](https://github.com/tdwg/process/issues/7) example announcement |
 | :--- |
@@ -258,7 +259,7 @@ TDWG announces the Public Review of the proposed {standardName} standard. It has
 
 The standard's abstract can be found here: x
 
-A brief set of guidelines for reviewers can be found in the document *(originally links to these guidelines, but I think a simplified set of guidelines is more appropriate.)*. These questions provide guidance: They are not exhaustive.
+A brief set of guidelines for reviewers can be found in the document *(originally links to these guidelines, but I think a simplified set of guidelines is more appropriate. DE: I think that this document is ok...?)*. These questions provide guidance: They are not exhaustive.
 
 
 
