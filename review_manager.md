@@ -117,7 +117,7 @@ What **criteria** should you convey to Reviewers to judge a submission? A TDWG s
 
 ## 3.3 Post expert Review
 
-Once all expert Reviews are in, it is up to you to look at the Reviews and decide into which category to place the submission.
+Once all expert Reviews are in, it is up to the Review Manager to look at the Reviews and decide into which category to place the submission.
 
 - Accept submission (as is), which would be rare,
 - Revisions required (which would be the norm),
