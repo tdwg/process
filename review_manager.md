@@ -51,7 +51,7 @@ The **Review Manager**
 
 The **Independent Reviewers**
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) |
+| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
 | :--- |
 | *Need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* |
 
@@ -62,7 +62,7 @@ The **Independent Reviewers**
 
 # 2 TDWG Standards Track
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) |
+| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *Replace obsolete text here about OJS with some mechanism having the following features: archive of record of review, potential for confidentiality when necessary/desirable, ability to be turned over to any replacement manager.* |
 
@@ -70,7 +70,7 @@ The Review Manager must ensure that:-
 
 A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). The file/s used in the review process should-
 
-| [See issue #9](https://github.com/tdwg/process/issues/9) |
+| [See issue #9](https://github.com/tdwg/process/issues/9) file formats |
 | :--- |
 | *Replace obsolete text here about formats with something about Google Docs or Word docs with track changes capabilities. There really does not need to be a connection between the format used by the independent reviewers and the ultimate format for display (which currently will be Markdown, but could be something else in the future).* |
 
@@ -94,7 +94,7 @@ While it is appropriate to seek reviewers from different communities/disciplines
 
 It would be hoped that at least two of the reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) |
+| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
 
@@ -124,7 +124,7 @@ Once all reviews are in, it is up to you to look at the reviews and decide into 
 - Resubmit for a new review (rare) or
 - Decline submission (even rarer)
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) |
+| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments & [issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
 
@@ -140,9 +140,12 @@ The public review is complementary to the individual reviews. **Public comment m
 
 To advance the submission to public review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) |
+| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
 | :--- |
 | *Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.* |
+
+| [See issue #6](https://github.com/tdwg/process/issues/6) mechanisms to alert the community |
+| :--- |
 | *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
 
 A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom email lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
@@ -156,7 +159,7 @@ Public comment may result in all of the following -
 
 Note: If possible, constructive comments should be acknowledged by the Review Manager.
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) |
+| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
 | :--- |
 | *We need to review the following section in light of our discussions about confidential vs. public commenting.* |
 
@@ -211,7 +214,7 @@ Dear {reviewerName}:
 
 I've been appointed as the review manager for the proposed TDWG {standardName} standard.
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) |
+| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *We need to edit this template with the final language regarding anonymity options for the expert reviewers.* |
 
@@ -225,7 +228,7 @@ Please reply to me by {$weekLaterDate} to indicate whether you will undertake th
 
 The review itself is due {$reviewDueDate}.
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) |
+| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
 | :--- |
 | *Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.* |
 
