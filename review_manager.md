@@ -88,9 +88,9 @@ One of the first tasks for the Review Manager is to seek reviewers for the submi
 
 ## 3.1 Reviewer Profile
 
-The **ideal reviewer** is someone who has not been directly involved in the development of the standard (independence). Reviewers must have advanced technical skills as a standard is a technical document. The ideal reviewer has written or contributed to the development of another standard. An ideal reviewer 'gets the job done'.
+The **ideal Reviewer** is someone who has not been directly involved in the development of the standard (independence). Reviewers must have advanced technical skills as a standard is a technical document. The ideal Reviewer has written or contributed to the development of another standard. An ideal Reviewer 'gets the job done'.
 
-While it is appropriate to seek reviewers from different communities/disciplines, this is less important than their technical abilities. Ideally, good reviewers will have experience in a range of areas/applications.
+While it is appropriate to seek Reviewers from different communities/disciplines, this is less important than their technical abilities. Ideally, good Reviewers will have experience in a range of areas/applications.
 
 It would be hoped that at least two of the reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
 
@@ -98,31 +98,31 @@ It would be hoped that at least two of the reviews would provide a comprehensive
 | :--- |
 | *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
 
-An example of an email request to potential reviewers can be found in section 5.2: Please use something like this as the email content.
+An example of an email request to potential Reviewers can be found in section 5.2: Please use something like this as the email content.
 
-The timeframe for individual reviewers to respond is up to you as Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the review within a reasonable timeframe, another Reviewer may need to be engaged. You may want to have a reviewer or two 'up your sleeve' in case of missed deadlines. Once a deadline has been passed, send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
+The timeframe for individual Reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the review within a reasonable timeframe, another Reviewer may need to be engaged. You may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines. Once a deadline has been passed, send a reminder and in parallel, consider seeking an additional Reviewer. This way, there are minimal holdups.
 
 ## 3.2 Review Criteria
 
-What **criteria** should you convey to reviewers to judge a submission? A TDWG standard is a document, but consideration should be given in the review of how effectively the proposed standard could be implemented.
+What **criteria** should you convey to Reviewers to judge a submission? A TDWG standard is a document, but consideration should be given in the review of how effectively the proposed standard could be implemented.
 
-- The key issue for reviewers is that the proposed TDWG standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
+- The key issue for Reviewers is that the proposed TDWG standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
 - Is the submission clearly written? If not, then uptake of the standard, however technically capable it is, will be diminished. Is the document itself structured in a way that will facilitate understanding by the broadest audience? Each standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See Section 3.2.1 of the Standards Documentation Specification for details.
 - Does the submission conform to the TDWG Standards Specification?
-- Does the submission detail the intended audience and its needs? This should be addressed in a preamble and is required for a reviewer to evaluate how well the standard meets its goals. If the audience and desired outcomes are not identified, it is impossible to evaluate the effectiveness of the proposed standard.
-- Is the proposed standard technically accurate? For a complex standard, this is not an easy thing to evaluate. Some of the reviewers need to be technically capable of systematically examining the proposed standard to ensure that it is accurate. Typos, unexpanded first use of acronyms and undefined jargon in a technical document present a significant hazards to the end-users.
+- Does the submission detail the intended audience and its needs? This should be addressed in a preamble and is required for a Reviewer to evaluate how well the standard meets its goals. If the audience and desired outcomes are not identified, it is impossible to evaluate the effectiveness of the proposed standard.
+- Is the proposed standard technically accurate? For a complex standard, this is not an easy thing to evaluate. Some of the Reviewers need to be technically capable of systematically examining the proposed standard to ensure that it is accurate. Typos, unexpanded first use of acronyms and undefined jargon in a technical document present a significant hazards to the end-users.
 - Does the submission build upon effective existing standards? Proposed standards should not 'reinvent the wheel'. They should re-use well-accepted and effective standards wherever possible. Are other existing standards more appropriate for the intended purpose?
 - Is the overall structure of the standard effective? If the structure of the proposed standard is problematic, then use of the standard may be equally problematic. Are there ways to simplify the structure? Does the structure allow for efficient/effective extensibility?
 - Does the standard address a large majority of end-user needs? Are the fields/parameters sufficient and clearly defined? Are the parameters/fields sufficient to address the large majority of end-user needs?
 
-## 3.3 Post Review
+## 3.3 Post expert Review
 
-Once all reviews are in, it is up to you to look at the reviews and decide into which category to place the submission.
+Once all expert Reviews are in, it is up to you to look at the Reviews and decide into which category to place the submission.
 
 - Accept submission (as is), which would be rare,
 - Revisions required (which would be the norm),
 - Resubmit for a new review (rare) or
-- Decline submission (even rarer)
+- Decline submission (even rarer).
 
 | [See issue #4](https://github.com/tdwg/process/issues/4) public review comments & [issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
@@ -130,15 +130,15 @@ Once all reviews are in, it is up to you to look at the reviews and decide into 
 
 Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. **~~If reviewers have used Word's Track Changes, then the documents are not anonymous.~~ You may need to export these reviews into a format that maintains reviewer anonymity to the Author. ~~You can for example, use Save As in Word and use the Security button to remove personal information.~~** You may wish to combine all salient parts of reviews into a single document for the Author.
 
-Subsequent reviews (by the engaged Reviewers) is usual.
+Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
 
 As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should request a decision concerning progress to Public Review. The Executive will discuss the submission and provide a decision within 30 days.
 
 # 4 Public Review
 
-The public review is complementary to the individual reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted.
+The Public Review is complementary to the individual expert Reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted.
 
-To advance the submission to public review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
+To advance the submission to Public Review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
 
 | [See issue #10](https://github.com/tdwg/process/issues/10) submission materials |
 | :--- |
@@ -165,7 +165,7 @@ Note: If possible, constructive comments should be acknowledged by the Review Ma
 
 Public Review comments are openly visible to all. Comments are normaly posted by and identified to the commenter. Anonymous comments can when justified be communicated to and posted by the Review Manager on behalf of the commenter. The Author can examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
-An issue tracking system can be used in the public review. The basic requirement is that
+An issue tracking system can be used in the Public Review. The basic requirement is that
 
 - The public can view and _easily_ comment on the proposal.
 - That all comments can be identified to an individual with at least an email address (which is at least known to the Review Manager).
