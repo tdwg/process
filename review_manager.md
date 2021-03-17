@@ -140,7 +140,7 @@ The public review is complementary to the individual reviews. **Public comment m
 
 To advance the submission to public review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
+| [See issue #10](https://github.com/tdwg/process/issues/10) submission materials |
 | :--- |
 | *Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.* |
 
@@ -246,7 +246,9 @@ Please disclose if you have a conflict of interest with the content of the manus
 
 ## 5.3 Example of Public Review Announcement
 
-*I have left here what bits were left over after I deleted outdated mechanisms. Do we actually want to provide a template, or just links to copies of the previous announcements that we have recovered and let the review manager create their own version?*
+| [See issue #7](https://github.com/tdwg/process/issues/7) example announcement |
+| :--- |
+| *I have left here what bits were left over after I deleted outdated mechanisms. Do we actually want to provide a template, or just links to copies of the previous announcements that we have recovered and let the review manager create their own version?* |
 
 **{standardName} Public Review**
 
