@@ -51,14 +51,15 @@ The **Review Manager**
 
 The **Independent Reviewers**
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
-| :--- |
-| *Need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* |
-
 1. Should be anonymous to all but the Review Manager during the Review process.
 2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed Standard.
 3. Provide an unbiased assessment on the proposed Standard.
 4. Report to the Review Manager in a timely manner.
+
+| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
+| :--- |
+| *We need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* |
+| **Done?** |
 
 # 2 TDWG Standards Track
 
@@ -74,6 +75,7 @@ A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg
 | :--- |
 | *Replace obsolete text here about formats with something about Google Docs or Word docs with track changes capabilities. There really does not need to be a connection between the format used by the independent reviewers and the ultimate format for display (which currently will be Markdown, but could be something else in the future).* |
 | *DE: Do we **need** to describe file formats? See proposed deletion as striketrough above.* |
+| **Done?** |
 
 B\. The Author has placed the submission in the correct Standards category
 - Technical Specification,
@@ -98,10 +100,12 @@ It would be hoped that at least two of the Reviews would provide a comprehensive
 | [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
+| *DE: See section 3.3 on the expert review summary report - which I think is sufficient instructions? Cleaning all and each individual expert review correspondence item for personal data (before archiving it all) might anyway be a very large task...?* |
+| **Done?** |
 
 An example of an email request to potential expert Reviewers can be found in section 5.2: Please use something like this as the email content.
 
-The timeframe for individual Reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the Review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. You may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines. Once a deadline has been passed, send a reminder and in parallel, consider seeking an additional Reviewer. This way, there are minimal holdups.
+The timeframe for individual Reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the Review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. ~~The Review Mangewr may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines.~~ Once a deadline has been passed, the Revíew Manager shall send a reminder and in parallel, consider seeking an additional Reviewer. This way, there are minimal holdups.
 
 ## 3.2 Review criteria
 
@@ -128,8 +132,10 @@ Once all expert Reviews are in, it is up to the Review Manager to look at the Re
 | [See issue #4](https://github.com/tdwg/process/issues/4) public review comments & [issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
+| *DE: Is the recommendation to write a summary report from the expert Review sufficient?* |
+| **Done?** |
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. The Review Manager must export the expert Reviews into a format that maintains Reviewer anonymity to the Author. The Review manager may wish to combine all salient parts of Reviews into a single document before presented to the Author.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. The Review Manager must export the expert Reviews into a format that maintains Reviewer anonymity to the Author. The Review Manager may wish to combine all salient parts of Reviews into a single document before presented to the Author and for the report to the Executive Committee.
 
 Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
 
@@ -148,7 +154,7 @@ To advance the submission to Public Review, an acceptable set of documents must 
 | [See issue #6](https://github.com/tdwg/process/issues/6) mechanisms to alert the community |
 | :--- |
 | *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
-| *Description of how to coordinate communication about the public review announcemnent with the TDWG Outreach and Communications subcommittee should be added.* |
+| *TODO: Description of how to coordinate communication about the public review announcemnent with the TDWG Outreach and Communications subcommittee should be added.* |
 
 A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom email lists and potentially other web sites such as GBIF. A copy of a previous announcement can be found as Section 5.2. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
 
@@ -164,6 +170,7 @@ Note: If possible, constructive comments should be acknowledged by the Review Ma
 | [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
 | :--- |
 | *We need to review the following section in light of our discussions about confidential vs. public commenting.* |
+| *DE: Text updated* -- **Done?** |
 
 Public Review comments are openly visible to all. Comments are normaly posted by and identified to the commenter. Anonymous comments can when justified be communicated to and posted by the Review Manager on behalf of the commenter. The Author can start to examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
@@ -216,9 +223,10 @@ Dear {reviewerName}:
 
 I've been appointed as the review manager for the proposed TDWG {standardName} standard.
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
+| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
 | :--- |
 | *We need to edit this template with the final language regarding anonymity options for the expert reviewers.* |
+| **DE: Pending possible decision on BISS and Publons...??** (or leave it at anonymous by default and make an eventual offer for beeing identified be a voluntary bonus?) |
 
 I am seeking independent reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
 
@@ -230,10 +238,10 @@ Please reply to me by {$weekLaterDate} to indicate whether you will undertake th
 
 The review itself is due {$reviewDueDate}.
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
+| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.* |
-| *DE: Done* |
+| **DE: Done?** |
 
 {reviewManagerSignature}
 
@@ -252,6 +260,7 @@ Please disclose if you have a conflict of interest with the content of the manus
 | [See issue #7](https://github.com/tdwg/process/issues/7) example announcement |
 | :--- |
 | *I have left here what bits were left over after I deleted outdated mechanisms. Do we actually want to provide a template, or just links to copies of the previous announcements that we have recovered and let the review manager create their own version?* |
+| *DE: To me, the short example template below looks useful to include?* |
 
 **{standardName} Public Review**
 
