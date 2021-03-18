@@ -41,11 +41,11 @@ The Executive Committee may also make recommendations for Reviewers but the fina
 The **Review Manager**
 
 1. Manages the process of review.
-2. Understands the process required for an effective review (Section 5.1).
+2. Understands the process required for an effective Review (Section 5.1).
 3. Does not need to be a technical developer but does need to have a good overview of the proposed standard. A prospective user of the standard should make for an effective Review Manager.
-4. Recruits Independent Reviewers from the TDWG or related communities.
+4. Recruits independent expert Reviewers from the TDWG or related communities.
 5. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
-6. Expedites the review process within the time requirements of the constitution.
+6. Expedites the Review process within the time requirements of the TDWG Constitution.
 
 ## 1.3 Independent Reviewers
 
@@ -128,7 +128,7 @@ Once all expert Reviews are in, it is up to the Review Manager to look at the Re
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. **~~If reviewers have used Word's Track Changes, then the documents are not anonymous.~~ The Review Manager may need to export these Reviews into a format that maintains Reviewer anonymity to the Author. ~~You can for example, use Save As in Word and use the Security button to remove personal information.~~** You may wish to combine all salient parts of Reviews into a single document for the Author.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. The Review Manager may need to export the expert Reviews into a format that maintains Reviewer anonymity to the Author. You may wish to combine all salient parts of Reviews into a single document for the Author.
 
 Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
 
@@ -164,13 +164,13 @@ Note: If possible, constructive comments should be acknowledged by the Review Ma
 | :--- |
 | *We need to review the following section in light of our discussions about confidential vs. public commenting.* |
 
-Public Review comments are openly visible to all. Comments are normaly posted by and identified to the commenter. Anonymous comments can when justified be communicated to and posted by the Review Manager on behalf of the commenter. The Author can examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
+Public Review comments are openly visible to all. Comments are normaly posted by and identified to the commenter. Anonymous comments can when justified be communicated to and posted by the Review Manager on behalf of the commenter. The Author can start to examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
 An issue tracking system can be used in the Public Review. The basic requirement is that
 
 - The public can view and _easily_ comment on the proposal.
 - That all comments can be identified to an individual with at least an email address (which is at least known to the Review Manager).
-- That a log of all comments is maintained ~~can be uploaded to *(somewhere in Github)*~~ so that the process is fully logged for future reference.
+- That a log of all comments is maintained so that the process is fully logged for future reference.
 
 When the review period is up, the Review Manager needs to inform [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and create a document that **adds a recommended action against each** comment that could include (with any further explanation as necessary):
 
@@ -178,7 +178,7 @@ When the review period is up, the Review Manager needs to inform [secretariat@td
 - Accept comment but adds no significant addition to the proposal, or
 - Reject comment.
 
-It is then up to the Author to respond to the Review Manager concerning all comments and associated recommendations. The Review Manager examines the Author's responses and any updated submission. One of two actions are then selected for the submission:-
+It is then up to the Author to respond to the Review Manager concerning all comments and associated recommendations. The Review Manager examines the Author's responses and any updated submission. One of two actions are then selected for the submission:
 
 - A recommendation to the Executive Committee (via the Secretariat) that the standard be accepted or
 
@@ -195,15 +195,15 @@ A number of iterations may be required before a recommendation to accept the pro
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
-  - If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert reviews.
+  - If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert Reviews.
   - If the response is negative, the Secretary reports the decision with justification to the Task Group Convener.
-3. The Review Manager submits the reviews along with a summary and recommendation as a package to the Executive Committee.
+3. The Review Manager submits the Reviews along with a summary and recommendation as a package to the Executive Committee.
 4. The Executive Committee may
   - advance the draft as a Proposed Standard with call for public comment, or
   - decline (with justification) to advance the draft, or
   - request a new revision to address specific problems.
-5. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of public comment. A minimum of 30 days must be allowed for comment. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the public review.
-6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of public review before the Executive Committee may accept it as a Standard.
+5. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of public comment. A minimum of 30 days must be allowed for comment. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
+6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of Public Review before the Executive Committee may accept it as a Standard.
 
 [The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws.]
 
@@ -263,6 +263,6 @@ A brief set of guidelines for reviewers can be found in the document *(originall
 
 
 
-In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by XXXX. Comments can be anonymous by *(revise to eliminate inconsistency between saying the reviews can be anonymous but must have an identified author)*
+In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by XXXX. Comments can be anonymous if justified by *(revise to eliminate inconsistency between saying the reviews can be anonymous but must have an identified author)*
 
 Please distribute this call for comment to anyone you think could or should comment on the {standardName} standard.
