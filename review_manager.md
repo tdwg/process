@@ -24,7 +24,7 @@ Bibliographic citation: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 20
 
 # 1 Responsibilities
 
-TDWG has a process for the ratification of its standards (<https://www.tdwg.org/about/process/>) that is part of the TDWG Constitution (<https://www.tdwg.org/about/constitution/>). TDWG's Constitution and Standards Review process relies on consensus.
+TDWG has a process for the ratification of its standards (<https://www.tdwg.org/about/process/>) that is part of the TDWG Constitution (<https://www.tdwg.org/about/constitution/>). TDWG's constitution and standards review process relies on consensus.
 
 ## 1.1 TDWG Executive Committee
 
@@ -34,26 +34,26 @@ The **TDWG Executive Committee** has responsibility for
 2. Approving submissions for Public Review
 3. Ratifying a submission as a TDWG Standard
 
-The Executive Committee may also make recommendations for Reviewers but the final decision for selecting reviewers is up to the Review Manager.
+The Executive Committee may also make recommendations for reviewers but the final decision for selecting reviewers is up to the Review Manager.
 
 ## 1.2 Review Manager
 
 The **Review Manager**
 
-1. Manages the process of Review.
-2. Understands the process required for an effective Review (Section 5.1).
-3. Does not need to be a technical developer but does need to have a good overview of the proposed Standard. A prospective user of the Standard should make for an effective Review Manager.
+1. Manages the process of review.
+2. Understands the process required for an effective review (Section 5.1).
+3. Does not need to be a technical developer but does need to have a good overview of the proposed standard. A prospective user of the standard should make for an effective Review Manager.
 4. Recruits independent expert Reviewers from the TDWG or related communities.
 5. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
-6. Expedites the Review process within the time requirements of the TDWG Constitution.
+6. Expedites the review process within the time requirements of the TDWG Constitution.
 
 ## 1.3 Independent Reviewers
 
 The **Independent Reviewers**
 
-1. Should be anonymous to all but the Review Manager during the Review process.
-2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed Standard.
-3. Provide an unbiased assessment on the proposed Standard.
+1. Should be anonymous to all but the Review Manager during the review process.
+2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
+3. Provide an unbiased assessment on the proposed standard.
 4. Report to the Review Manager in a timely manner.
 
 | [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
@@ -77,7 +77,7 @@ A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg
 | *DE: Do we **need** to describe file formats? See proposed deletion as striketrough above.* |
 | **Done?** |
 
-B\. The Author has placed the submission in the correct Standards category
+B\. The Author has placed the submission in the correct standards category
 - Technical Specification,
 - Applicability Statement or
 - Best Current Practice.
@@ -87,15 +87,15 @@ C\. The metadata information under the Summary is accurate and complete. The met
 
 # 3 Independent Reviews
 
-One of the first tasks for the Review Manager is to seek Reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three expert Reviews are provided for submissions.
+One of the first tasks for the Review Manager is to seek reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three expert reviews are provided for submissions.
 
-## 3.1 Reviewer profile
+## 3.1 Reviewer Profile
 
-The **ideal Reviewer** is someone who has not been directly involved in the development of the Standard (independence). Reviewers must have advanced technical skills as a Standard is a technical document. The ideal Reviewer has written or contributed to the development of another Standard. An ideal Reviewer 'gets the job done'.
+The **ideal reviewer** is someone who has not been directly involved in the development of the standard (independence). Reviewers must have advanced technical skills as a standard is a technical document. The ideal reviewer has written or contributed to the development of another standard. An ideal reviewer 'gets the job done'.
 
-While it is appropriate to seek Reviewers from different communities/disciplines, this is less important than their technical abilities. Ideally, good Reviewers will have experience in a range of areas/applications.
+While it is appropriate to seek reviewers from different communities/disciplines, this is less important than their technical abilities. Ideally, good reviewers will have experience in a range of areas/applications.
 
-It would be hoped that at least two of the Reviews would provide a comprehensive check of all of the technical details of the proposed Standard. With a complex Standard, this will take time.
+It would be hoped that at least two of the reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
 
 | [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
@@ -103,39 +103,39 @@ It would be hoped that at least two of the Reviews would provide a comprehensive
 | *DE: See section 3.3 on the expert review summary report - which I think is sufficient instructions? Cleaning all and each individual expert review correspondence item for personal data (before archiving it all) might anyway be a very large task...?* |
 | **Done?** |
 
-An example of an email request to potential expert Reviewers can be found in section 5.2: Please use something like this as the email content.
+An example of an email request to potential expert reviewers can be found in Section 5.2: Please use something like this as the email content.
 
-The timeframe for individual Reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the Review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. ~~The Review Mangewr may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines.~~ Once a deadline has been passed, the Revíew Manager shall send a reminder and in parallel, consider seeking an additional Reviewer. This way, there are minimal holdups.
+The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. ~~The Review Mangewr may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines.~~ Once a deadline has been passed, the Revíew Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
 
-## 3.2 Review criteria
+## 3.2 Review Criteria
 
-What **criteria** should you convey to Reviewers to judge a submission? A TDWG Standard is a document, but consideration should be given in the Review of how effectively the proposed Standard could be implemented.
+What **criteria** should you convey to reviewers to judge a submission? A TDWG Standard is a document, but consideration should be given in the review of how effectively the proposed standard could be implemented.
 
-- The key issue for Reviewers is that the proposed TDWG Standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
-- Is the submission clearly written? If not, then uptake of the Standard, however technically capable it is, will be diminished. Is the document itself structured in a way that will facilitate understanding by the broadest audience? Each Standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See Section 3.2.1 of the Standards Documentation Specification for details.
+- The key issue for reviewers is that the proposed TDWG standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
+- Is the submission clearly written? If not, then uptake of the standard, however technically capable it is, will be diminished. Is the document itself structured in a way that will facilitate understanding by the broadest audience? Each standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See section 3.2.1 of the Standards Documentation Specification for details.
 - Does the submission conform to the TDWG Standards Specification?
-- Does the submission detail the intended audience and its needs? This should be addressed in a preamble and is required for a Reviewer to evaluate how well the Standard meets its goals. If the audience and desired outcomes are not identified, it is impossible to evaluate the effectiveness of the proposed Standard.
-- Is the proposed Standard technically accurate? For a complex Standard, this is not an easy thing to evaluate. Some of the Reviewers need to be technically capable of systematically examining the proposed standard to ensure that it is accurate. Typos, unexpanded first use of acronyms and undefined jargon in a technical document present a significant hazards to the end-users.
-- Does the submission build upon effective existing Standards? Proposed Standards should not 'reinvent the wheel'. They should re-use well-accepted and effective Standards wherever possible. Are other existing Standards more appropriate for the intended purpose?
+- Does the submission detail the intended audience and its needs? This should be addressed in a preamble and is required for a reviewer to evaluate how well the standard meets its goals. If the audience and desired outcomes are not identified, it is impossible to evaluate the effectiveness of the proposed standard.
+- Is the proposed standard technically accurate? For a complex standard, this is not an easy thing to evaluate. Some of the reviewers need to be technically capable of systematically examining the proposed standard to ensure that it is accurate. Typos, unexpanded first use of acronyms and undefined jargon in a technical document present a significant hazards to the end-users.
+- Does the submission build upon effective existing standards? Proposed standards should not 'reinvent the wheel'. They should re-use well-accepted and effective standards wherever possible. Are other existing standards more appropriate for the intended purpose?
 - Is the overall structure of the Standard effective? If the structure of the proposed Standard is problematic, then use of the Standard may be equally problematic. Are there ways to simplify the structure? Does the structure allow for efficient/effective extensibility?
-- Does the Standard address a large majority of end-user needs? Are the fields/parameters sufficient and clearly defined? Are the parameters/fields sufficient to address the large majority of end-user needs?
+- Does the standard address a large majority of end-user needs? Are the fields/parameters sufficient and clearly defined? Are the parameters/fields sufficient to address the large majority of end-user needs?
 
-## 3.3 Post expert Review
+## 3.3 Post Expert Review
 
-Once all expert Reviews are in, it is up to the Review Manager to look at the Reviews and decide into which category to place the submission.
+Once all expert reviews are in, it is up to the Review Manager to look at the reviews and decide into which category to place the submission.
 
 - Accept submission (as is), which would be rare,
 - Revisions required (which would be the norm),
-- Resubmit for a new Review (rare) or
+- Resubmit for a new review (rare) or
 - Decline submission (even rarer).
 
 | [See issue #4](https://github.com/tdwg/process/issues/4) public review comments & [issue #5](https://github.com/tdwg/process/issues/5) tracking system |
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
-| *DE: Is the recommendation to write a summary report from the expert Review sufficient?* |
+| *DE: Is the recommendation to write a summary report from the expert review sufficient?* |
 | **Done?** |
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. The Review Manager must export the expert Reviews into a format that maintains Reviewer anonymity to the Author. The Review Manager may wish to combine all salient parts of Reviews into a single document before presented to the Author and for the report to the Executive Committee.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. The Review Manager must export the expert reviews into a format that maintains Reviewer anonymity to the Author. The Review Manager may wish to combine all salient parts of reviews into a single document before presented to the Author and for the report to the Executive Committee.
 
 Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
 
@@ -143,7 +143,7 @@ As the Process dictates, the final decision for advancing the submission to Publ
 
 # 4 Public Review
 
-The Public Review is complementary to the individual expert Reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted.
+The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted.
 
 To advance the submission to Public Review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
 
@@ -188,9 +188,9 @@ When the Public Review period is up, the Review Manager needs to inform [secreta
 
 It is then up to the Author to respond to the Review Manager concerning all comments and associated recommendations. The Review Manager examines the Author's responses and any updated submission. One of two actions are then selected for the submission:
 
-- A recommendation to the Executive Committee (via the Secretariat) that the Standard be accepted or
+- A recommendation to the Executive Committee (via the Secretariat) that the standard be accepted or
 
-- A recommendation to the Author that further work on the Standard is required.
+- A recommendation to the Author that further work on the standard is required.
 
 A number of iterations may be required before a recommendation to accept the proposal is made to the Executive Committee.
 
@@ -203,19 +203,19 @@ A number of iterations may be required before a recommendation to accept the pro
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
-  - If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert Reviews.
+  - If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert reviews.
   - If the response is negative, the Secretary reports the decision with justification to the Task Group Convener.
-3. The Review Manager submits the Reviews along with a summary and recommendation as a package to the Executive Committee.
+3. The Review Manager submits the reviews along with a summary and recommendation as a package to the Executive Committee.
 4. The Executive Committee may
   - advance the draft as a Proposed Standard with call for Public Review, or
   - decline (with justification) to advance the draft, or
   - request a new revision to address specific problems.
-5. Public Review. The Executive Committee directs the proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
+5. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
 6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of Public Review before the Executive Committee may accept it as a Standard.
 
 [The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws.]
 
-## 5.2 Example of an email to potential expert Reviewers
+## 5.2 Example of an Email to Potential Expert Reviewers
 
 Note: This template is similar to emails that have been used in the past to request Reviews. Please modify as required. The fields within braces in the text below are variables into which you may insert known details.
 
@@ -255,7 +255,7 @@ Submission materials for review will be made available pending your acceptance t
 
 Please disclose if you have a conflict of interest with the content of the manuscript or the authors.
 
-## 5.3 Example of Public Review announcement
+## 5.3 Example of Public Review Announcement
 
 | [See issue #7](https://github.com/tdwg/process/issues/7) example announcement |
 | :--- |
