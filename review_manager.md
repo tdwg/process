@@ -273,3 +273,15 @@ A brief set of guidelines for reviewers can be found in the document {linkToGuid
 In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by XXXX. Comments can be anonymous when justified and communicated to the Review Manager who posts the comment on behalf of the commenter.
 
 Please distribute this call for comment to anyone you think could or should comment on the {standardName} standard.
+
+## 5.4 Past Public Review Announcements and response summaries
+
+[LSID and GUID Applicability Statements](2009_lsid_guid.md)
+
+[Darwin Core Vocabulary Standard](2009_dwc.md)
+
+[Audubon Core Vocabulary Standard](2013_ac.md)
+
+[Standards Documentation and Vocabulary Maintenance Specifications](2017_sds_vms.md)
+
+[Global Genomic Biodiversity Network and ABCD Extension for Geosciences](2020_ggbn_abcd-efg.md)
