@@ -69,7 +69,7 @@ The **Independent Reviewers**
 
 The Review Manager must ensure that
 
-A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). ~~The file/s used in the review process should-~~
+A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). 
 
 | [See issue #9](https://github.com/tdwg/process/issues/9) file formats |
 | :--- |
@@ -84,6 +84,7 @@ B\. The Author has placed the submission in the correct standards category
 
 C\. The metadata information under the Summary is accurate and complete. The metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
 
+Because the document(s) submitted for consideration will be commented upon by reviewers, then returned to the authors for revision, it may be advisable to make them available to the reviewers in some form where changes and comments can easily be tracked. In order to document the submission, such mutable documents should be exported as PDFs and archived in GitHub where they can be easily viewed in their original form. 
 
 # 3 Independent Reviews
 
