@@ -51,15 +51,11 @@ The **Review Manager**
 
 The **Independent Reviewers**
 
-1. Should be anonymous to all but the Review Manager during the review process.
-2. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
-3. Provide an unbiased assessment on the proposed standard.
-4. Report to the Review Manager in a timely manner.
+1. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
+2. Provide an unbiased assessment on the proposed standard.
+3. Report to the Review Manager in a timely manner.
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
-| :--- |
-| *We need to edit #1.3.1 if we want to have the option of non-anonymous expert review.* |
-| **Done?** |
+The option to remain anonymous should be available to the reviewers in order to promote candidness. However, in the interest of supporting open science and to recognize their contributions, the reviewers may choose to identify themselves when they submit their reviews. 
 
 # 2 TDWG Standards Track
 
@@ -130,7 +126,7 @@ Once all expert reviews are in, it is up to the Review Manager to look at the re
 | *DE: Is the recommendation to write a summary report from the expert review sufficient?* |
 | **Done?** |
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. The Review Manager must export the expert reviews into a format that maintains Reviewer anonymity to the Author. The Review Manager may wish to combine all salient parts of reviews into a single document before presented to the Author and for the report to the Executive Committee.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. If a Reviewer has chosen to remain anonymous, the Review Manager must export the expert reviews into a format that maintains Reviewer anonymity to the Authors. The Review Manager may wish to combine all salient parts of reviews into a single document before presented to the Author and for the report to the Executive Committee.
 
 Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
 
@@ -218,12 +214,9 @@ Dear {reviewerName}:
 
 I've been appointed as the review manager for the proposed TDWG {standardName} standard.
 
-| [See issue #3](https://github.com/tdwg/process/issues/3) expert review comments |
-| :--- |
-| *We need to edit this template with the final language regarding anonymity options for the expert reviewers.* |
-| **DE: Pending possible decision on BISS and Publons...??** (or leave it at anonymous by default and make an eventual offer for beeing identified be a voluntary bonus?) |
-
 I am seeking independent reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
+
+Reviewers have the option to remain anonymous. However, if you choose to identify yourself in your review, your contribution will be recognized when the standard is published.
 
 Please feel free to contact me with any questions via email and we can arrange a voice or video call if desired. I am currently on time zone UTC +/-xxxx.
 
@@ -248,7 +241,7 @@ Abstract
 
 Submission materials for review will be made available pending your acceptance to undertake this task. Notice that the anonymous expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
 
-Please disclose if you have a conflict of interest with the content of the manuscript or the authors.
+Please disclose if you have a conflict of interest with the content of the manuscript or the authors that might affect your ability to provide an unbiased review.
 
 ## 5.3 Example of Public Review Announcement
 
