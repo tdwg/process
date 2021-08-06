@@ -71,12 +71,6 @@ The Review Manager must ensure that
 
 A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). 
 
-| [See issue #9](https://github.com/tdwg/process/issues/9) file formats |
-| :--- |
-| *Replace obsolete text here about formats with something about Google Docs or Word docs with track changes capabilities. There really does not need to be a connection between the format used by the independent reviewers and the ultimate format for display (which currently will be Markdown, but could be something else in the future).* |
-| *DE: Do we **need** to describe file formats? See proposed deletion as striketrough above.* |
-| **Done?** |
-
 B\. The Author has placed the submission in the correct standards category
 - Technical Specification,
 - Applicability Statement or
