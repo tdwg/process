@@ -59,10 +59,6 @@ In the interest of supporting open science and to recognize their contributions,
 
 # 2 TDWG Standards Track
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
-| :--- |
-| *Replace obsolete text here about OJS with some mechanism having the following features: archive of record of review, potential for confidentiality when necessary/desirable, ability to be turned over to any replacement manager.* |
-
 The Review Manager must ensure that
 
 A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). 
@@ -80,6 +76,8 @@ Because the document(s) submitted for consideration will be commented upon by re
 
 One of the first tasks for the Review Manager is to seek reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three expert reviews are provided for submissions.
 
+The Review Manager should keep a record of correspondence with potential and engaged expert reviewers that would be sufficient for a replacement Review Manager to take over if that became necessary. That record should include expert reviewer candidate names, date of solicitation, date of response, and the response itself (accept or decline). It should also include copies of key emails that contain information such as request to review, acceptance of the review, discussion of potential conflicts of interest. 
+
 ## 3.1 Reviewer Profile
 
 The **ideal reviewer** is someone who has not been directly involved in the development of the standard (independence). Reviewers must have advanced technical skills as a standard is a technical document. The ideal reviewer has written or contributed to the development of another standard. An ideal reviewer 'gets the job done'.
@@ -88,22 +86,16 @@ While it is appropriate to seek reviewers from different communities/disciplines
 
 It would be hoped that at least two of the reviews would provide a comprehensive check of all of the technical details of the proposed standard. With a complex standard, this will take time.
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
-| :--- |
-| *Replace obsolete text here about archiving correspondence in OJS with some alternative method, probably involving GitHub.* |
-| *DE: See section 3.3 on the expert review summary report - which I think is sufficient instructions? Cleaning all and each individual expert review correspondence item for personal data (before archiving it all) might anyway be a very large task...?* |
-| **Done?** |
-
 An example of an email request to potential expert reviewers can be found in Section 5.2: Please use something like this as the email content.
 
-The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. ~~The Review Mangewr may want to have a Reviewer or two 'up your sleeve' in case of missed deadlines.~~ Once a deadline has been passed, the Revíew Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
+The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. Once a deadline has been passed, the Revíew Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
 
 ## 3.2 Review Criteria
 
-What **criteria** should you convey to reviewers to judge a submission? A TDWG Standard is a document, but consideration should be given in the review of how effectively the proposed standard could be implemented.
+What **criteria** should you convey to reviewers to judge a submission? A TDWG Standard is composed of documents, but consideration should be given in the review of how effectively the proposed standard could be implemented.
 
 - The key issue for reviewers is that the proposed TDWG standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
-- Is the submission clearly written? If not, then uptake of the standard, however technically capable it is, will be diminished. Is the document itself structured in a way that will facilitate understanding by the broadest audience? Each standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See section 3.2.1 of the Standards Documentation Specification for details.
+- Is the submission clearly written? If not, then uptake of the standard, however technically capable it is, will be diminished. Are the documents themselves structured in a way that will facilitate understanding by the broadest audience? Each standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See section 3.2.1 of the Standards Documentation Specification for details.
 - Does the submission conform to the TDWG Standards Specification?
 - Does the submission detail the intended audience and its needs? This should be addressed in a preamble and is required for a reviewer to evaluate how well the standard meets its goals. If the audience and desired outcomes are not identified, it is impossible to evaluate the effectiveness of the proposed standard.
 - Is the proposed standard technically accurate? For a complex standard, this is not an easy thing to evaluate. Some of the reviewers need to be technically capable of systematically examining the proposed standard to ensure that it is accurate. Typos, unexpanded first use of acronyms and undefined jargon in a technical document present a significant hazards to the end-users.
@@ -120,21 +112,19 @@ Once all expert reviews are in, it is up to the Review Manager to look at the re
 - Resubmit for a new review (rare) or
 - Decline submission (even rarer).
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments & [issue #5](https://github.com/tdwg/process/issues/5) tracking system |
+| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
-| *DE: Is the recommendation to write a summary report from the expert review sufficient?* |
-| **Done?** |
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. If a Reviewer has chosen to remain anonymous, the Review Manager must export the expert reviews into a format that maintains Reviewer anonymity to the Authors. The Review Manager may wish to combine all salient parts of reviews into a single document before presented to the Author and for the report to the Executive Committee.
+The reviews as they were submitted submitted by the expert reviewers should be archived in GitHub as exported PDFs, with the Review manager taking care to remove identifiable information if a reviewer chose to be anonymous. The Review Manager may wish to combine all salient parts of reviews into a single document before presenting it to the Author and for the report to the Executive Committee.
 
-Subsequent Public Reviews (by the engaged expert Reviewers) is usual.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. Versions of the submissions revised in the light of reviewer comments should be exported as PDFs and archived in GitHub. These revised documents can be made available for examination by the Executive Committee and the community during the Public Review.
 
 As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
 
 # 4 Public Review
 
-The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted.
+The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted. The expert reviewers may also participate in the Pubic Review.
 
 To advance the submission to Public Review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
 
@@ -216,7 +206,7 @@ I've been appointed as the review manager for the proposed TDWG {standardName} s
 
 I am seeking independent reviewers for that standard, which has been submitted for ratification. Your name has been recommended by members of the community as an ideal reviewer.
 
-Reviewers have the option to remain anonymous. However, if you choose to identify yourself in your review, your contribution will be recognized when the standard is published.
+You are encouraged to identify yourself in your review so that your contribution can be recognized when the standard is published. However, reviewers have the option to remain anonymous if that would enable a more candid review. 
 
 Please feel free to contact me with any questions via email and we can arrange a voice or video call if desired. I am currently on time zone UTC +/-xxxx.
 
@@ -226,11 +216,6 @@ Please reply to me by {$weekLaterDate} to indicate whether you will undertake th
 
 The review itself is due {$reviewDueDate}.
 
-| [See issue #5](https://github.com/tdwg/process/issues/5) tracking system |
-| :--- |
-| *Text here needs to be revised with instructions for accessing the materials. The exact procedure will depend on whether it's an attached doc, Google doc, viewable online, etc.* |
-| **DE: Done?** |
-
 {reviewManagerSignature}
 
 "{standardTitle}"
@@ -239,7 +224,7 @@ Abstract
 
 {standardAbstract}
 
-Submission materials for review will be made available pending your acceptance to undertake this task. Notice that the anonymous expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
+Submission materials for review will be made available pending your acceptance to undertake this task. Notice that the expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
 
 Please disclose if you have a conflict of interest with the content of the manuscript or the authors that might affect your ability to provide an unbiased review.
 
