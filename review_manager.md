@@ -55,7 +55,7 @@ The **Independent Reviewers**
 2. Provide an unbiased assessment on the proposed standard.
 3. Report to the Review Manager in a timely manner.
 
-The option to remain anonymous should be available to the reviewers in order to promote candidness. However, in the interest of supporting open science and to recognize their contributions, the reviewers may choose to identify themselves when they submit their reviews. 
+In the interest of supporting open science and to recognize their contributions, reviewers will be identified when they submit their reviews. However the option to remain anonymous will be available to the reviewers in order to promote candidness. 
 
 # 2 TDWG Standards Track
 
