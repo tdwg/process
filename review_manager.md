@@ -112,25 +112,25 @@ Once all expert reviews are in, it is up to the Review Manager to look at the re
 - Resubmit for a new review (rare) or
 - Decline submission (even rarer).
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
-| :--- |
-| *(Consider recommendations here for options for tracking comments.)* |
-
 The reviews as they were submitted by the expert reviewers should be archived in GitHub as exported PDFs, with the Review manager taking care to remove identifiable information if a reviewer chose to be anonymous. The Review Manager may wish to combine all salient parts of reviews into a single document before presenting it to the Author and for the report to the Executive Committee.
 
-Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. Versions of the submissions revised in the light of reviewer comments should be exported as PDFs and archived in GitHub. These revised documents can be made available for examination by the Executive Committee and the community during the Public Review.
+Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. Versions of submitted human-readable documents, revised in the light of reviewer comments, should be exported as PDFs and archived in GitHub. These revised documents can be made available for examination by the Executive Committee, although another format may be used for the transmittal if that format makes it easier to examine all aspects of the proposal.
 
-As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
+As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should explain how the revised proposal can be accessed, and request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
 
 # 4 Public Review
 
 The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted. The expert reviewers may also participate in the Pubic Review.
 
-To advance the submission to Public Review, an acceptable set of documents must have been submitted by the Author to the Review Manager.
+The submission should be made available for public viewing according to current TDWG practice. However, the publicly-viewable submission should have the following features:
 
-| [See issue #10](https://github.com/tdwg/process/issues/10) submission materials |
-| :--- |
-| *Replace obsolete text here with text describing options for making the submission visible to the public during the period of the review. This should include some sort of landing page that explains the history and status of the proposed standard -- what commenters will see to guide them to the standards documents that they will be reviewing. It should also provide instructions for commenting.* |
+- Its components should be easily viewed on a standard web browser from an open website.
+- It should include an introduction or landing page that briefly explains the history and status of the proposed standard. A link to the [TDWG Process web page](https://www.tdwg.org/about/process/) should be included for those who are unfamiliar with the standards review process.
+- It should enumerate the parts of the standard, which will include one or more human readable documents. If a vocabulary standard, one of the human readable documents will be a list of terms that includes the basic term metadata required by the Standards Documentation Specification. The documents may also include any normative machine-readable files, such as XML schemas. 
+- The submission may link to informative documents that are not included in the standard but that are intended to help users better understand how to use it.
+- Instructions for submitting comments.
+
+The intention is that an uninitiated member of the community can easily understand the purpose of the public review, know what is included in the submission, and understand how to contribute a review. 
 
 | [See issue #6](https://github.com/tdwg/process/issues/6) mechanisms to alert the community |
 | :--- |
@@ -139,6 +139,8 @@ To advance the submission to Public Review, an acceptable set of documents must 
 
 A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom email lists and potentially other web sites such as GBIF. An example announcement can be found as Section 5.3 and links to prior announcements in Section 5.4. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
 
+A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normaly posted by and identified to the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. In either circumstance, the Review Manager should post the comments to the tracker on behalf of the submitter. 
+
 Public comment may result in all of the following
 
 - Positive suggestions that will improve and enhance the utility of the Standard.
@@ -146,20 +148,7 @@ Public comment may result in all of the following
 - Recommendations that will advocate significant/fundamental changes to the submission.
 - Negative comment that shows bias or lack of understanding of the intent of the proposed Standard.
 
-Note: If possible, constructive comments should be acknowledged by the Review Manager.
-
-| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
-| :--- |
-| *We need to review the following section in light of our discussions about confidential vs. public commenting.* |
-| *DE: Text updated* -- **Done?** |
-
-Public Review comments are openly visible to all. Comments are normaly posted by and identified to the commenter. Anonymous comments can when justified be communicated to and posted by the Review Manager on behalf of the commenter. The Author can start to examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
-
-An issue tracking system can be used in the Public Review. The basic requirement is that
-
-- The public can view and _easily_ comment on the proposal.
-- That all comments can be identified to an individual with at least an email address (which is at least known to the Review Manager).
-- That a log of all comments is maintained so that the process is fully logged for future reference.
+Note: If possible, constructive comments should be acknowledged by the Review Manager. The Author can start to examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
 When the Public Review period is up, the Review Manager needs to inform [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and the Author and create a document that **adds a recommended action against each** comment that could include (with any further explanation as necessary):
 
