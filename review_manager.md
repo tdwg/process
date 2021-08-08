@@ -116,7 +116,7 @@ Once all expert reviews are in, it is up to the Review Manager to look at the re
 | :--- |
 | *(Consider recommendations here for options for tracking comments.)* |
 
-The reviews as they were submitted submitted by the expert reviewers should be archived in GitHub as exported PDFs, with the Review manager taking care to remove identifiable information if a reviewer chose to be anonymous. The Review Manager may wish to combine all salient parts of reviews into a single document before presenting it to the Author and for the report to the Executive Committee.
+The reviews as they were submitted by the expert reviewers should be archived in GitHub as exported PDFs, with the Review manager taking care to remove identifiable information if a reviewer chose to be anonymous. The Review Manager may wish to combine all salient parts of reviews into a single document before presenting it to the Author and for the report to the Executive Committee.
 
 Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. Versions of the submissions revised in the light of reviewer comments should be exported as PDFs and archived in GitHub. These revised documents can be made available for examination by the Executive Committee and the community during the Public Review.
 
