@@ -165,8 +165,7 @@ A number of iterations may be required before a recommendation to accept the pro
 
 ![TDWG ratification process](https://www.tdwg.org/static/pages/about/process/tdwg_process.png)
 
-
-## 5.1 TDWG Process (by-laws) - Ratification of Standards
+## 5.1 From the TDWG Process (by-laws) - Ratification of Standards
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
@@ -180,7 +179,7 @@ A number of iterations may be required before a recommendation to accept the pro
 5. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
 6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of Public Review before the Executive Committee may accept it as a Standard.
 
-[The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws.]
+The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws. See the [TDWG Process web page](https://www.tdwg.org/about/process/) for the entire by-laws text.
 
 ## 5.2 Example of an Email to Potential Expert Reviewers
 
