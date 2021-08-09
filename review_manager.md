@@ -125,19 +125,16 @@ The Public Review is complementary to the individual expert reviews. **Public co
 The submission should be made available for public viewing according to current TDWG practice, which might include publication in the organization's joural, [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/about). However, the publicly-viewable submission should have the following features:
 
 - Its components should be easily viewed on a standard web browser from an open website.
-- It should include an introduction or landing page that briefly explains the history and status of the proposed standard. A link to the [TDWG Process web page](https://www.tdwg.org/about/process/) should be included for those who are unfamiliar with the standards review process.
+- It should include an introduction or landing page that briefly explains the history and status of the submission, now identified as a "Proposed Standard". A link to the [TDWG Process web page](https://www.tdwg.org/about/process/) should be included for those who are unfamiliar with the standards review process.
 - It should enumerate the parts of the standard, which will include one or more human readable documents. If a vocabulary standard, one of the human readable documents will be a list of terms that includes the basic term metadata required by the Standards Documentation Specification. The documents may also include any normative machine-readable files, such as XML schemas. 
 - The submission may link to informative documents that are not included in the standard but that are intended to help users better understand how to use it.
 - Instructions for submitting comments.
 
 The intention is that an uninitiated member of the community can easily understand the purpose of the public review, know what is included in the submission, and understand how to contribute a review. 
 
-| [See issue #6](https://github.com/tdwg/process/issues/6) mechanisms to alert the community |
-| :--- |
-| *Replace obsolete text here with text describing mechanisms for informing the community about the subject of the ongoing review, deadlines, and where to go to contribute a review. The existing text about the TDWG homepage and email lists can be included, but other forms of communication like the TDWG newsletter, Twitter, watchers of the Task Group's Github repo, etc. should be added.* |
-| *TODO: Description of how to coordinate communication about the public review announcemnent with the TDWG Outreach and Communications subcommittee should be added.* |
+The Review Manager should prepare a request for comment announcing the initiation of the public review. The announcement must include a description of how to submit a comment and the date range within which comments may be submitted (covering a minimum of 30 days). The announcement should be made in the name of the Review manager and include an email address that commenters can use to contact the Review Manager. An example announcement can be found as Section 5.3 and links to prior announcements in Section 5.4. 
 
-A news item should be added by the Author to the initiating group's home page on the TDWG site, and the Review Manager should send the same announcement to at least the TDWG and Taxacom email lists and potentially other web sites such as GBIF. An example announcement can be found as Section 5.3 and links to prior announcements in Section 5.4. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for any assistance.
+When the announcement is complete, the Review Manager should post the text on the landing page of the Task Group's repository. The Chair of the Outreach and Communications functional subcommittee will assist the Review Manager in publicizing the announcement. Typically, this will involve creating a news item on the TDWG website that is accessible via a URL. The announcement itself should be sent out by email distribution lists commonly used by the community and the news item URL can be included as part of official TDWG social media posts. The Review Manager, Author, and other community members should be encouraged to forward the announcement or link to their networks in order to publicize the public review as widely as possible. As the comment period nears its end, it is advisable to follow up with a reminder via the same communication channels.
 
 A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normaly posted by and identified to the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. In either circumstance, the Review Manager should post the comments to the tracker on behalf of the submitter. 
 
@@ -169,7 +166,7 @@ A number of iterations may be required before a recommendation to accept the pro
 ![TDWG ratification process](https://www.tdwg.org/static/pages/about/process/tdwg_process.png)
 
 
-## 5.1 TDWG Constitution - Ratification of Standards
+## 5.1 TDWG Process (by-laws) - Ratification of Standards
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
@@ -219,34 +216,22 @@ Please disclose if you have a conflict of interest with the content of the manus
 
 ## 5.3 Example of Public Review Announcement
 
-| [See issue #7](https://github.com/tdwg/process/issues/7) example announcement |
-| :--- |
-| *I have left here what bits were left over after I deleted outdated mechanisms. Do we actually want to provide a template, or just links to copies of the previous announcements that we have recovered and let the review manager create their own version?* |
-| *DE: To me, the short example template below looks useful to include?* |
-
 **{standardName} Public Review**
 
-By: *what? review manager? executive?*
+TDWG announces the Public Review of the proposed {standardName} standard. It has been reviewed by expert reviewers and the TDWG Executive Committee, and we now seek comment from the community. The period of comment will run from {startDate} to {endDate}. 
 
-TDWG announces the Public Review of the proposed {standardName} standard. It has been reviewed by the TDWG Executive Committee and we now seek comment from the community.
+An introduction to the proposed standard with links to the standards document{s} can be accessed at {linkToLandingPage}. 
 
-The standard's abstract can be found here: x
+The preferred method of commenting is to post a comment on the issue tracker at {issueTrackerLink}. Users who have problems using the tracker may email their comments directly to the Review Manager at {reviewManagerContactEmail}, who will post them on behalf of the commenter. Comments can be posted anonymously by request when justified and emailed to the Review Manager. All comments will be public and archived by the issue tracker system.
 
-| [See issue #7](https://github.com/tdwg/process/issues/7) example announcement |
-| :--- |
-| *(originally {linkToGuidelines} links to these guidelines, but I think a simplified set of guidelines is more appropriate.* |
-| *DE: I think that a link to this document is ok...?*. |
+In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by XXXX. 
 
-A brief set of guidelines for reviewers can be found in the document {linkToGuidelines}. These questions provide guidance: They are not exhaustive.
+Please distribute this request for comment to anyone you think could or should comment on the {standardName} standard.
 
-| [See issue #4](https://github.com/tdwg/process/issues/4) public review comments |
-| :--- |
-| *(revise to eliminate inconsistency between saying the reviews can be anonymous but must have an identified author)* |
-| **Done** |
+{It has been common practice at this point to include acknowledgements of the authors, expert reviewers, and the Executive for their work on the proposed standard.}
 
-In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by XXXX. Comments can be anonymous when justified and communicated to the Review Manager who posts the comment on behalf of the commenter.
-
-Please distribute this call for comment to anyone you think could or should comment on the {standardName} standard.
+Sincerely,
+{reviewManagerName}, Review Manager
 
 ## 5.4 Past Public Review Announcements and response summaries
 
