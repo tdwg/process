@@ -16,7 +16,7 @@ Date created: 2009-05-15
 
 Part of TDWG Standard: Not part of any standard
 
-Abstract: The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
+Abstract: The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, and the bylaws that govern how TDWG standards are ratified.
 
 Contributors: Lee Belbin, Gail Kampmeier, Dag Endresen, and Steve Baskauf
 
@@ -52,7 +52,7 @@ The **Review Manager**
 The **Independent Reviewers**
 
 1. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
-2. Provide an unbiased assessment on the proposed standard.
+2. Provide an unbiased assessment of the proposed standard.
 3. Report to the Review Manager in a timely manner.
 
 In the interest of supporting open science and to recognize their contributions, reviewers will be identified by default when they submit their reviews. However the option to remain anonymous will be available to the reviewers in order to promote candidness. 
@@ -132,25 +132,25 @@ The submission should be made available for public viewing according to current 
 
 The intention is that an uninitiated member of the community can easily understand the purpose of the public review, know what is included in the submission, and understand how to contribute a review. 
 
-The Review Manager should prepare a request for comment announcing the initiation of the public review. The announcement must include a description of how to submit a comment and the date range within which comments may be submitted (covering a minimum of 30 days). The announcement should be made in the name of the Review manager and include an email address that commenters can use to contact the Review Manager. An example announcement can be found as Section 5.3 and links to prior announcements in Section 5.4. 
+The Review Manager should prepare a request for comment, announcing the initiation of the public review. The announcement must include a description of how to submit a comment and the date range within which comments may be submitted (covering a minimum of 30 days). The announcement should be made in the name of the Review Manager and include an email address that commenters can use to contact the Review Manager. An example announcement can be found as Section 5.3 and links to prior announcements in Section 5.4. 
 
-When the announcement is complete, the Review Manager should post the text on the landing page of the Task Group's repository. The Chair of the Outreach and Communications functional subcommittee will assist the Review Manager in publicizing the announcement. Typically, this will involve creating a news item on the TDWG website that is accessible via a URL. The announcement itself should be sent out by email distribution lists commonly used by the community and the news item URL can be included as part of official TDWG social media posts. The Review Manager, Author, and other community members should be encouraged to forward the announcement or link to their networks in order to publicize the public review as widely as possible. As the comment period nears its end, it is advisable to follow up with a reminder via the same communication channels.
+When the announcement is complete, the Review Manager should post the text on the landing page of the Task Group's repository. The Chair of the Outreach and Communications functional subcommittee will assist the Review Manager in publicizing the announcement. Typically, this will involve creating a news item on the TDWG website, which is accessible via a URL. The announcement itself should be sent out to email distribution lists commonly used by the community and the news item URL can be included as part of official TDWG social media posts. The Review Manager, Author, and other community members should be encouraged to forward the announcement or link to their networks in order to publicize the public review as widely as possible. As the comment period nears its end, it is advisable to follow up with a reminder via the same communication channels.
 
-A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normaly posted by and identified to the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. In either circumstance, the Review Manager should post the comments to the tracker on behalf of the submitter. 
+A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normally posted by and identified with the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. In either circumstance, the Review Manager should post the comments to the tracker on behalf of the submitter. 
 
 Public comment may result in all of the following
 
 - Positive suggestions that will improve and enhance the utility of the Standard.
 - Suggestions that will add unnecessary complexity or diversions.
 - Recommendations that will advocate significant/fundamental changes to the submission.
-- Negative comment that shows bias or lack of understanding of the intent of the proposed Standard.
+- Negative comments that shows bias or lack of understanding of the intent of the proposed Standard.
 
 Note: If possible, constructive comments should be acknowledged by the Review Manager. The Author can start to examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
-When the Public Review period is up, the Review Manager needs to inform [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and the Author and create a document that **adds a recommended action against each** comment that could include (with any further explanation as necessary):
+When the Public Review period is up, the Review Manager needs to inform both the [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and the Author, and create a document that **adds a recommended action against each** comment, which could include (with any further explanation as necessary):
 
 - Accept comment and implement the suggestion,
-- Accept comment but adds no significant addition to the proposal, or
+- Accept comment but adds no significant change to the proposal, or
 - Reject comment.
 
 It is then up to the Author to respond to the Review Manager concerning all comments and associated recommendations. The Review Manager examines the Author's responses and any updated submission. One of two actions are then selected for the submission:
@@ -176,7 +176,7 @@ A number of iterations may be required before a recommendation to accept the pro
   - advance the draft as a Proposed Standard with call for Public Review, or
   - decline (with justification) to advance the draft, or
   - request a new revision to address specific problems.
-5. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
+5. Public Review. The Executive Committee directs that the Proposed Standard be placed in the TDWG repository, then publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
 6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of Public Review before the Executive Committee may accept it as a Standard.
 
 The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws. See the [TDWG Process web page](https://www.tdwg.org/about/process/) for the entire by-laws text.
@@ -209,9 +209,9 @@ Abstract
 
 {standardAbstract}
 
-Submission materials for review will be made available pending your acceptance to undertake this task. Notice that the expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
+Submission materials for review will be made available pending your acceptance to undertake this task. Note that the expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
 
-Please disclose if you have a conflict of interest with the content of the manuscript or the authors that might affect your ability to provide an unbiased review.
+Please disclose if you have a conflict of interest with the content of the manuscript or the authors, which might affect your ability to provide an unbiased review.
 
 ## 5.3 Example of Public Review Announcement
 
