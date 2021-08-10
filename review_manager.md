@@ -16,9 +16,9 @@ Date created: 2009-05-15
 
 Part of TDWG Standard: Not part of any standard
 
-Abstract: The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, and the bylaws that govern how TDWG standards are ratified.
+Abstract: The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
 
-Contributors: Lee Belbin, Gail Kampmeier, Dag Endresen, and Steve Baskauf
+Contributors: [Lee Belbin](https://orcid.org/0000-0001-8900-6203), [Gail Kampmeier](https://orcid.org/0000-0002-5178-4170), [Dag Endresen](https://orcid.org/0000-0002-2352-5497), and [Steve Baskauf](https://orcid.org/0000-0003-4365-3135)
 
 Bibliographic citation: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines for Review Managers of Proposed TDWG Standards. Biodiversity Information Standards (TDWG). [put the URL here]()
 
@@ -136,7 +136,7 @@ The Review Manager should prepare a request for comment, announcing the initiati
 
 When the announcement is complete, the Review Manager should post the text on the landing page of the Task Group's repository. The Chair of the Outreach and Communications functional subcommittee will assist the Review Manager in publicizing the announcement. Typically, this will involve creating a news item on the TDWG website, which is accessible via a URL. The announcement itself should be sent out to email distribution lists commonly used by the community and the news item URL can be included as part of official TDWG social media posts. The Review Manager, Author, and other community members should be encouraged to forward the announcement or link to their networks in order to publicize the public review as widely as possible. As the comment period nears its end, it is advisable to follow up with a reminder via the same communication channels.
 
-A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normally posted by and identified with the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. In either circumstance, the Review Manager should post the comments to the tracker on behalf of the submitter. 
+A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normally posted by and identified with the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. The Review Manager should post emailed comments to the tracker on behalf of the submitter. 
 
 Public comment may result in all of the following
 
