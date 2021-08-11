@@ -61,7 +61,7 @@ In the interest of supporting open science and to recognize their contributions,
 
 The Review Manager must ensure that
 
-A\. The submission conforms to the TDWG Standards Specification (<http://rs.tdwg.org/sds/doc/specification/>). 
+A\. The submission conforms to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>). 
 
 B\. The Author has placed the submission in the correct standards category
 - Technical Specification,
@@ -96,7 +96,7 @@ What **criteria** should you convey to reviewers to judge a submission? A TDWG S
 
 - The key issue for reviewers is that the proposed TDWG standard efficiently addresses the community need. Does the submission achieve the intended outcome in an efficient and effective manner?
 - Is the submission clearly written? If not, then uptake of the standard, however technically capable it is, will be diminished. Are the documents themselves structured in a way that will facilitate understanding by the broadest audience? Each standard document must clearly indicate what parts of it are normative. This may be done by designation at the start of the document (e.g. "all parts of the document excluding examples marked as non-normative") or by indicating at the start of particular sections whether they are normative or not. See section 3.2.1 of the Standards Documentation Specification for details.
-- Does the submission conform to the TDWG Standards Specification?
+- Does the submission conform to the TDWG Standards Documentation Specification?
 - Does the submission detail the intended audience and its needs? This should be addressed in a preamble and is required for a reviewer to evaluate how well the standard meets its goals. If the audience and desired outcomes are not identified, it is impossible to evaluate the effectiveness of the proposed standard.
 - Is the proposed standard technically accurate? For a complex standard, this is not an easy thing to evaluate. Some of the reviewers need to be technically capable of systematically examining the proposed standard to ensure that it is accurate. Typos, unexpanded first use of acronyms and undefined jargon in a technical document present a significant hazards to the end-users.
 - Does the submission build upon effective existing standards? Proposed standards should not 'reinvent the wheel'. They should re-use well-accepted and effective standards wherever possible. Are other existing standards more appropriate for the intended purpose?
