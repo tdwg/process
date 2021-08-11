@@ -120,7 +120,7 @@ As the Process dictates, the final decision for advancing the submission to Publ
 
 # 4 Public Review
 
-The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted. The expert reviewers may also participate in the Pubic Review.
+The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted. The expert reviewers may also participate in the Public Review.
 
 The submission should be made available for public viewing according to current TDWG practice, which might include publication in the organization's joural, [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/about). However, the publicly-viewable submission should have the following features:
 
