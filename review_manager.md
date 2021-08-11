@@ -223,7 +223,7 @@ An introduction to the proposed standard with links to the standards document{s}
 
 The preferred method of commenting is to post a comment on the issue tracker at {issueTrackerLink}. Users who have problems using the tracker may email their comments directly to the Review Manager at {reviewManagerContactEmail}, who will post them on behalf of the commenter. Comments can be posted anonymously by request when justified and emailed to the Review Manager. All comments will be public and archived by the issue tracker system.
 
-In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by XXXX. 
+In accordance with the TDWG 'Process', a minimum of 30 days is required for public comment on the proposed standard. Comments should therefore be received by {deadlineDate}. 
 
 Please distribute this request for comment to anyone you think could or should comment on the {standardName} standard.
 
