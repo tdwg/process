@@ -88,7 +88,7 @@ It would be hoped that at least two of the reviews would provide a comprehensive
 
 An example of an email request to potential expert reviewers can be found in Section 5.2: Please use something like this as the email content.
 
-The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. Once a deadline has been passed, the Revíew Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
+The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. Once a deadline has been passed, the Review Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
 
 ## 3.2 Review Criteria
 
