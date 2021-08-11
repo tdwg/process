@@ -201,8 +201,6 @@ Please reply to me by {$weekLaterDate} to indicate whether you will undertake th
 
 The review itself is due {$reviewDueDate}.
 
-{reviewManagerSignature}
-
 "{standardTitle}"
 
 Abstract
@@ -212,6 +210,8 @@ Abstract
 Submission materials for review will be made available pending your acceptance to undertake this task. Note that the expert review is followed by a public review period. More information about the TDWG review process is available at {link-to-this-document}.
 
 Please disclose if you have a conflict of interest with the content of the manuscript or the authors, which might affect your ability to provide an unbiased review.
+
+{reviewManagerSignature}
 
 ## 5.3 Example of Public Review Announcement
 
