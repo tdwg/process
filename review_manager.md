@@ -138,7 +138,7 @@ When the announcement is complete, the Review Manager should post the text on th
 
 A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normally posted by and identified with the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. The Review Manager should post emailed comments to the tracker on behalf of the submitter. 
 
-Public comment may result in all of the following
+Public comment may result in all of the following:
 
 - Positive suggestions that will improve and enhance the utility of the Standard.
 - Suggestions that will add unnecessary complexity or diversions.
