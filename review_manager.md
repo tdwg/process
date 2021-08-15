@@ -26,28 +26,42 @@ Bibliographic citation: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 20
 
 TDWG has a process for the ratification of its standards (<https://www.tdwg.org/about/process/>) that is part of the TDWG Constitution (<https://www.tdwg.org/about/constitution/>). TDWG's constitution and standards review process relies on consensus.
 
-## 1.1 TDWG Executive Committee
+## 1.1 Author
 
-The **TDWG Executive Committee** has responsibility for
+The **Author**
 
-1. Appointing a Review Manager
-2. Approving submissions for Public Review
-3. Ratifying a submission as a TDWG Standard
+1. Prepares the submission with their Task Group to conform to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>).
+2. Places the submission in the correct standards category
+  * Technical Specification,
+  * Applicability Statement or
+  * Best Current Practice 
+4. Assures that the metadata information under the Summary is accurate and complete, with the understanding that this metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
+5. Presents the submission to the TDWG Executive Committee.
+
+## 1.2 TDWG Executive Committee
+
+The **TDWG Executive Committee** 
+
+1. Appoints a Review Manager
+2. Approves submissions for Public Review
+3. Ratifies a submission as a TDWG Standard
 
 The Executive Committee may also make recommendations for reviewers but the final decision for selecting reviewers is up to the Review Manager.
 
-## 1.2 Review Manager
+## 1.3 Review Manager
 
 The **Review Manager**
 
 1. Manages the process of review.
 2. Understands the process required for an effective review (Section 5.1).
 3. Does not need to be a technical developer but does need to have a good overview of the proposed standard. A prospective user of the standard should make for an effective Review Manager.
-4. Recruits independent expert Reviewers from the TDWG or related communities.
-5. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
-6. Expedites the review process within the time requirements of the TDWG Constitution.
+4. Ensures that the submission conforms to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>) and has been placed in the correct standards category.
+5. Verifies the accuracy and completeness of the metadata included in the Summary.
+6. Recruits independent expert Reviewers from the TDWG or related communities.
+7. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
+8. Expedites the review process within the time requirements of the TDWG Constitution.
 
-## 1.3 Independent Reviewers
+## 1.4 Independent Reviewers
 
 The **Independent Reviewers**
 
@@ -57,28 +71,15 @@ The **Independent Reviewers**
 
 In the interest of supporting open science and to recognize their contributions, reviewers will be identified by default when they submit their reviews. However, the option to remain anonymous will be available to the reviewers in order to promote candidness. 
 
-# 2 TDWG Standards Track
-
-The Review Manager must ensure that
-
-A\. The submission conforms to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>). 
-
-B\. The Author has placed the submission in the correct standards category
-- Technical Specification,
-- Applicability Statement or
-- Best Current Practice.
-
-C\. The metadata information under the Summary is accurate and complete. The metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
-
-Because the document(s) submitted for consideration will be commented upon by reviewers, then returned to the authors for revision, it may be advisable to make them available to the reviewers in some form where changes and comments can easily be tracked. In order to document the submission, such mutable documents should be exported as PDFs and archived in GitHub where they can be easily viewed in their original form. 
-
-# 3 Independent Reviews
+# 2 Independent Reviews
 
 One of the first tasks for the Review Manager is to seek reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three expert reviews are provided for submissions.
 
+Because the document(s) submitted for consideration will be commented upon by reviewers, then returned to the authors for revision, it may be advisable to make them available to the reviewers in some form where changes and comments can easily be tracked. In order to document the submission, such mutable documents should be exported as PDFs and archived in GitHub where they can be easily viewed in their original form.
+
 The Review Manager should keep a record of correspondence with potential and engaged expert reviewers that would be sufficient for a replacement Review Manager to take over if that became necessary. That record should include expert reviewer candidate names, date of solicitation, date of response, and the response itself (accept or decline). It should also include copies of key emails that contain information such as request to review, acceptance of the review, discussion of potential conflicts of interest. 
 
-## 3.1 Reviewer Profile
+## 2.1 Reviewer Profile
 
 The **ideal reviewer** is someone who has not been directly involved in the development of the standard (independence). Reviewers must have advanced technical skills as a standard is a technical document. The ideal reviewer has written or contributed to the development of another standard. An ideal reviewer 'gets the job done'.
 
@@ -90,7 +91,7 @@ An example of an email request to potential expert reviewers can be found in Sec
 
 The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. Once a deadline has been passed, the Review Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
 
-## 3.2 Review Criteria
+## 2.2 Review Criteria
 
 What **criteria** should you convey to reviewers to judge a submission? A TDWG Standard is composed of documents, but consideration should be given in the review of how effectively the proposed standard could be implemented.
 
@@ -103,7 +104,7 @@ What **criteria** should you convey to reviewers to judge a submission? A TDWG S
 - Is the overall structure of the Standard effective? If the structure of the proposed Standard is problematic, then use of the Standard may be equally problematic. Are there ways to simplify the structure? Does the structure allow for efficient/effective extensibility?
 - Does the standard address a large majority of end-user needs? Are the fields/parameters sufficient and clearly defined? Are the parameters/fields sufficient to address the large majority of end-user needs?
 
-## 3.3 Post Expert Review
+## 2.3 Post Expert Review
 
 Once all expert reviews are in, it is up to the Review Manager to look at the reviews and decide into which category to place the submission.
 
@@ -118,7 +119,7 @@ Inform the Author what if any steps need to be taken before seeking approval fro
 
 As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should explain how the revised proposal can be accessed, and request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
 
-# 4 Public Review
+# 3 Public Review
 
 The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted. The expert reviewers may also participate in the Public Review.
 
@@ -161,11 +162,11 @@ It is then up to the Author to respond to the Review Manager concerning all comm
 
 A number of iterations may be required before a recommendation to accept the proposal is made to the Executive Committee.
 
-# 5 Appendices
+# 4 Appendices
 
 ![TDWG ratification process](https://www.tdwg.org/static/pages/about/process/tdwg_process.png)
 
-## 5.1 From the TDWG Process (by-laws) - Ratification of Standards
+## 4.1 From the TDWG Process (by-laws) - Ratification of Standards
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
@@ -181,7 +182,7 @@ A number of iterations may be required before a recommendation to accept the pro
 
 The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws. See the [TDWG Process web page](https://www.tdwg.org/about/process/) for the entire by-laws text.
 
-## 5.2 Example of an Email to Potential Expert Reviewers
+## 4.2 Example of an Email to Potential Expert Reviewers
 
 Note: This template is similar to emails that have been used in the past to request Reviews. Please modify as required. The fields within braces in the text below are variables into which you may insert known details.
 
@@ -213,7 +214,7 @@ Please disclose if you have a conflict of interest with the content of the manus
 
 {reviewManagerSignature}
 
-## 5.3 Example of Public Review Announcement
+## 4.3 Example of Public Review Announcement
 
 **{standardName} Public Review**
 
@@ -232,7 +233,7 @@ Please distribute this request for comment to anyone you think could or should c
 Sincerely,
 {reviewManagerName}, Review Manager
 
-## 5.4 Past Public Review Announcements and response summaries
+## 4.4 Past Public Review Announcements and response summaries
 
 [LSID and GUID Applicability Statements](past_public_review_notices/2009_lsid_guid.md)
 
