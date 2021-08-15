@@ -35,8 +35,8 @@ The **Author**
   * Technical Specification,
   * Applicability Statement or
   * Best Current Practice 
-4. Assures that the metadata information under the Summary is accurate and complete, with the understanding that this metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
-5. Presents the submission to the TDWG Executive Committee.
+3. Assures that the metadata information under the Summary is accurate and complete, with the understanding that this metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
+4. Presents the submission to the TDWG Executive Committee.
 
 ## 1.2 TDWG Executive Committee
 
