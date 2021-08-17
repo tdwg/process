@@ -27,10 +27,6 @@ Bibliographic citation: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 20
 
 # 1 Responsibilities
 
-TDWG has a process for the ratification of its standards (<https://www.tdwg.org/about/process/>) that is part of the TDWG Constitution (<https://www.tdwg.org/about/constitution/>). TDWG's constitution and standards review process relies on consensus.
-
-# 1 Responsibilities
-
 The TDWG process for the ratification of its standards (<https://www.tdwg.org/about/process/>) is set forth in the TDWG Bylaws. Article 9 of the [TDWG Constitution](<https://www.tdwg.org/about/constitution/>) specifies how bylaws are created and modified. Ratification as a TDWG Standard should signify that a standard has a broad consensus of support in the community, rather than a simple or super majority of votes.
 
 ## 1.1 Author
