@@ -29,6 +29,10 @@ Bibliographic citation: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 20
 
 TDWG has a process for the ratification of its standards (<https://www.tdwg.org/about/process/>) that is part of the TDWG Constitution (<https://www.tdwg.org/about/constitution/>). TDWG's constitution and standards review process relies on consensus.
 
+# 1 Responsibilities
+
+The TDWG process for the ratification of its standards (<https://www.tdwg.org/about/process/>) is set forth in the TDWG Bylaws. Article 9 of the [TDWG Constitution](<https://www.tdwg.org/about/constitution/>) specifies how bylaws are created and modified. Ratification as a TDWG Standard should signify that a standard has a broad consensus of support in the community, rather than a simple or super majority of votes.
+
 ## 1.1 Author
 
 The **Author**
@@ -49,7 +53,7 @@ The **TDWG Executive Committee**
 2. Approves submissions for Public Review
 3. Ratifies a submission as a TDWG Standard
 
-The Executive Committee may also make recommendations for reviewers but the final decision for selecting reviewers is up to the Review Manager.
+The Executive Committee should ensure that the appointed Review Manager is independent and free from conflicts of interest with the proposed standard and its authors. If conflicts are unavoidable, these conflicts must be stated to the Executive Committee in review manager's acceptance of the role. The conflicts must also be described to the Author. The Executive Committee may also make recommendations for reviewers, but the final decision for selecting reviewers rests with the Review Manager. 
 
 ## 1.3 Review Manager
 
@@ -60,16 +64,16 @@ The **Review Manager**
 3. Does not need to be a technical developer but does need to have a good overview of the proposed standard. A prospective user of the standard should make for an effective Review Manager.
 4. Ensures that the submission conforms to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>) and has been placed in the correct standards category.
 5. Verifies the accuracy and completeness of the metadata included in the Summary.
-6. Recruits independent expert Reviewers from the TDWG or related communities.
+6. Recruits expert Reviewers from the TDWG or related communities who are independent and free of conflicts of interest.
 7. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
-8. Expedites the review process within the time requirements of the TDWG Constitution.
+8. Expedites the review process within the time requirements of the TDWG Bylaws.
 
 ## 1.4 Independent Reviewers
 
 The **Independent Reviewers**
 
 1. Are expected to have a high level of understanding of the domain and of the technical issues related to the proposed standard.
-2. Provide an unbiased assessment of the proposed standard.
+2. Should be free of conflicts of interest with the Author and the Author's projects and organization, and must be capable of providing an unbiased assessment of the proposed standard. Reviewers must describe any potential conflicts to the review manager before accepting the role, who in turn must report them to the Executive Committee.
 3. Report to the Review Manager in a timely manner.
 
 In the interest of supporting open science and to recognize their contributions, reviewers will be identified by default when they submit their reviews. However, the option to remain anonymous will be available to the reviewers in order to promote candidness. 
