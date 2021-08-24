@@ -9,8 +9,8 @@ Dear members of the Executive Committe:
 As [requested in your 2021-02-09 Zoom meeting](https://github.com/tdwg/process/issues/2#issue-805119923), we have completed revisions to the 2009-05-15 "Guidelines for Review Managers for Proposed TDWG Standards". The [draft document](https://github.com/tdwg/process/blob/master/review_manager.md) is available for your review in the `process` GitHub repository. 
 
 * For a record of the discussion that transpired during the revision process, please see the [closed issues](https://github.com/tdwg/process/issues?q=is%3Aissue+is%3Aclosed) in the issues tracker. 
-*A detailed chronology that includes a series of diffs showing most of the changes to the original document can be reviewed at [this pull request](https://github.com/tdwg/process/pull/11) 
-*To view what we belive to be the remaining steps needed to complete the work and get the guidelines online, please see [Issue 15](https://github.com/tdwg/process/issues/15). 
+* A detailed chronology that includes a series of diffs showing most of the changes to the original document can be reviewed at [this pull request](https://github.com/tdwg/process/pull/11) 
+* To view what we belive to be the remaining steps needed to complete the work and get the guidelines online, please see [Issue 15](https://github.com/tdwg/process/issues/15). 
 
 During the revision process, some questions arose and we would like feedback from you about them. If necessary, we can carry out additional revisions in the light of your response.
 
