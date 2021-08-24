@@ -21,4 +21,4 @@ Thank you for your consideration and we look forward to a response from you and 
 
 Sincerely,
 
-Past review managers of modern TDWG standards (Steve Baskauf, Lee Belbin, Dag Endresen, and Gain Kampmeier)
+Past review managers of modern TDWG standards (Steve Baskauf, Lee Belbin, Dag Endresen, and Gail Kampmeier)
