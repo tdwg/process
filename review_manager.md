@@ -163,7 +163,9 @@ It is then up to the Author to respond to the Review Manager concerning all comm
 
 - A recommendation to the Author that further work on the standard is required.
 
-A number of iterations may be required before a recommendation to accept the proposal is made to the Executive Committee.
+A number of iterations may be required before a recommendation to accept the proposal is made to the Executive Committee. 
+
+It is reasonable for the review manager to expect a response from the Executive Committee within 30 days. 
 
 # 4 Appendices
 
